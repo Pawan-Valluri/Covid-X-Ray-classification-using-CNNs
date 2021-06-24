@@ -26,5 +26,5 @@ For the Kaggle dataset, you can follow this [link](https://www.kaggle.com/amanul
 - Dataloader will be created for the model separately (this is because some models require different image sizes).
 - Trained and Validated on the dataset. I've set the epochs to 3.
 #### I've trained the model many times and the results vary very little each time. Most of the times the model with highest validation accuracy is Densenet and VGG16 in the second (sometimes vgg did come first as well). The highest accuracy that I could get with these models was capping around 93%.
-#### Finally to check things off I've run the models on the whole dataset. I've included instructions in the notebook if you want to run any of trained models.
+#### Finally to check things off I've run the models on the whole dataset. I've included instructions in the notebook if you want to run any of trained models(find the trained models [here](https://www.kaggle.com/pawanvalluri/covid-xray-classification-with-multiple-cnn-models/output).
 ### Hope this helps 😁 👍🏻.
